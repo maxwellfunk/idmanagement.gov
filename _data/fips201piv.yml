@@ -45,7 +45,7 @@
   category: PIV Card
   supplier: ZT Pass
   aplnumber: 1514
-  validate: 9/24/2025
+  validdate: 9/24/2025
   dateCode: 2025-09-24
   compliantwithtaa: Yes
   url: /docs/apl-1514-ztpass-piv.pdf
