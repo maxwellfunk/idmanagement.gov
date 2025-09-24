@@ -39,3 +39,13 @@
   dateCode: 2025-06-17
   compliantwithtaa: Yes
   url: /docs/apl-1513-idone-piv-243.pdf
+
+- productname: ZTPass PIV Applet v2.0 FIDO2.1 with NXP Chip P71D600 on OMEC Smart Card Inc.
+  partnumber: B9F1
+  category: PIV Card
+  supplier: ZT Pass
+  aplnumber: 1514
+  validate: 9/24/2025
+  dateCode: 2025-09-24
+  compliantwithtaa: Yes
+  url: /docs/apl-1514-ztpass-piv.pdf
