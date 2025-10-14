@@ -1978,10 +1978,7 @@
                 "common_name:Federal Bridge CA G4,organizational_unit_name:FPKI,organization_name:U.S. Government,country_name:US"
             ],
             "sia-entries": {
-                "http://sspsia.digicert.com/STNSSP/Certs_Issued_by_Class3SSPCA-G4.p7c": [
-                    "common_name:Senate PIV-I Device CA G5 PROD,organizational_unit_name:Office of the Sergeant at Arms,organizational_unit_name:U.S. Senate,organization_name:U.S. Government,country_name:US",
-                    "common_name:Senate PIV-I CA G5 PROD,organizational_unit_name:Office of the Sergeant at Arms,organizational_unit_name:U.S. Senate,organization_name:U.S. Government,country_name:US"
-                ]
+                "http://sspsia.digicert.com/STNSSP/Certs_Issued_by_Class3SSPCA-G4.p7c": []
             },
             "aia-entries": {
                 "http://repo.fpki.gov/bridge/caCertsIssuedTofbcag4.p7c": [
